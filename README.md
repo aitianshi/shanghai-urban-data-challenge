@@ -1,5 +1,7 @@
 # Shanghai Urban Data Challenge
 
+## Website : http://www.urbandatachallenge.com/
+
 ## Introduction
 
 This annual 30-hour hackathon aims to help university students understand the opportunities created by the new age of data. 
