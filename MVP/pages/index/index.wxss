@@ -1,0 +1,38 @@
+/**index.wxss**/
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: pink;
+  height: 100vh;
+}
+.header {
+  width: 100vw;
+  background-color: black;
+  height: 5vh;
+}
+
+.image {
+  width: 100vw;
+  background-color: red;
+}
+
+/*
+.image > image {
+  width: 100vw;
+  height: 100vh;
+}
+*/
+/*
+.image > image {
+}
+*/
+
+.articles {
+  width: 100vw;
+  background-color: blue;
+}
+
+.footer {
+  width: 100vw;
+  background-color: green;
+}
